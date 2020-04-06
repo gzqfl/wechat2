@@ -2,3 +2,5 @@ create table student (
 id int,
 name varchar(30)
 )
+tablespace DATA;
+
