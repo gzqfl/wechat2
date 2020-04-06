@@ -4,3 +4,6 @@ name varchar(30),
 gender char(1)
 )
 tablespace DATA;
+
+This line added for hot_fix
+
