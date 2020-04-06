@@ -1,0 +1,2 @@
+delete student
+where id = 1;
