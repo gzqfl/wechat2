@@ -1,2 +1,5 @@
 delete student
 where id = 1;
+
+added after cloned to local!
+
